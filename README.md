@@ -1,4 +1,4 @@
-![](/logo.png)
+![](/image/logo.png)
 
 # BeTheHero
 O projeto Be The Hero tem como objetivo a construção de um aplicativo para o contato de ONG's com doadores.
@@ -12,7 +12,7 @@ Tecnologias utilizadas:
 
 Protótipo:
 
-![](/prototipo.png)
+![](/image/prototipo.png)
 
 Releases:
 
