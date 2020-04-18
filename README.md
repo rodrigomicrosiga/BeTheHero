@@ -20,17 +20,17 @@ Diversas melhorias poderão ser disponibilizadas no decorrer do desenvolvimento
 
 # Instalação:
 
-Realize o clone do projeto através do Git
+Realize o clone do repositório através do Git
 
 # Back End
 
-- Dentro do diretorio backend, execute via shell:
+- Dentro do diretório backend, execute via shell:
 - npm install para que todos os módulos necessários ao NodeJS sejam instalados
 - npm start irá iniciar o servidor no endereço local porta 3333
 
 # Front End
 
-- Dentro do diretorio frontend, execute via shell:
+- Dentro do diretório frontend, execute via shell:
 - npm install para que todos os módulos necessários ao React sejam instalados
 - npm start irá iniciar o servidor no endereço local porta 3333
 
