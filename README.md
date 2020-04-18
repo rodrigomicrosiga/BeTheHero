@@ -10,31 +10,31 @@ Tecnologias utilizadas:
 - React Native - Expo / Mobile
 - SQLite - Banco de Dados
 
-Protótipo:
+# Protótipo:
 
 ![](/image/prototipo.png)
 
-Releases:
+# Releases:
 
 Diversas melhorias poderão ser disponibilizadas no decorrer do desenvolvimento
 
-Instalação:
+# Instalação:
 
 Realize o clone do projeto através do Git
 
-Back End
+# Back End
 
 - Dentro do diretorio backend, execute via shell:
 - npm install para que todos os módulos necessários ao NodeJS sejam instalados
 - npm start irá iniciar o servidor no endereço local porta 3333
 
-Front End
+# Front End
 
 - Dentro do diretorio frontend, execute via shell:
 - npm install para que todos os módulos necessários ao React sejam instalados
 - npm start irá iniciar o servidor no endereço local porta 3333
 
-Mobile
+# Mobile
 
 - Dentro do diretório mobile, execute via shell:
 - npm install para que todos os módulos necessários ao React Native sejam instalados
