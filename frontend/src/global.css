@@ -76,6 +76,6 @@ form textarea {
     margin-right: 8px;
 }
 
-.back-link: :hover {
+.back-link:hover {
     opacity: 0.8;
 }
